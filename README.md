@@ -1,4 +1,4 @@
-# Interactive dashboard for model exploration :detective:
+# Dashboard for interactive model exploration :detective:
 
 Ordinary differential equation (ODE) models are widely used in science, engineering, and medicine. However, when building a new model, it is typically necessary to explore how the model's output depends on its underlying parameters.
 
